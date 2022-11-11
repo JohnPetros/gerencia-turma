@@ -25,7 +25,9 @@ Sistema que simula o desempenho escolar de uma turma durante o ano letivo em uma
 
 ## ✅ Demonstração
 
-![Vite + React - Google Chrome 10_10_2022 09_55_43](https://user-images.githubusercontent.com/93893533/194871288-ea8b1fab-ba31-4533-b427-6a43f7293446.png)
+![Boletim da turma - Google Chrome 11_11_2022 09_42_42](https://user-images.githubusercontent.com/93893533/201344861-d33150fe-39e9-487e-b415-6012d4a131be.png)
+
+![Boletim da turma - Google Chrome 11_11_2022 09_44_06](https://user-images.githubusercontent.com/93893533/201344941-70e1a54d-e67d-4e37-8809-89791c71e117.png)
 
 <hr>
 
